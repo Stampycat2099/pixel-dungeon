@@ -14,3 +14,6 @@ http://pixeldungeon.tumblr.com/
 
 To build the game you will need my unnamed game library:
 https://github.com/watabou/PD-classes
+
+
+(Now managed by me. @Tr0j4n9)
